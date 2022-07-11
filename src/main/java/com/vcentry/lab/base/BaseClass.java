@@ -28,6 +28,7 @@ public class BaseClass {
 	public static LoginPage Login;
 	public static HomePage Home;
 	public static CartPage cart;
+	public static String t="test";
 	
 	public void openBrowser(String browser)
 	{
