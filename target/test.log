@@ -1,0 +1,126 @@
+[INFO ] 2022-07-05 10:38:51.926 [main] BaseClass - Browser opened successfully
+[INFO ] 2022-07-05 10:38:54.434 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (4066826b4dc92779ae08b36f894dd3b9)] -> id: user-name] is visible
+[INFO ] 2022-07-05 10:38:55.252 [main] BaseClass - standard_user is entered in [[ChromeDriver: chrome on WINDOWS (4066826b4dc92779ae08b36f894dd3b9)] -> id: user-name]
+[INFO ] 2022-07-05 10:38:55.343 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (4066826b4dc92779ae08b36f894dd3b9)] -> id: password] is visible
+[INFO ] 2022-07-05 10:38:55.767 [main] BaseClass - secret_sauce is entered in [[ChromeDriver: chrome on WINDOWS (4066826b4dc92779ae08b36f894dd3b9)] -> id: password]
+[INFO ] 2022-07-05 10:38:55.848 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (4066826b4dc92779ae08b36f894dd3b9)] -> id: login-button] is visible
+[INFO ] 2022-07-05 10:38:56.581 [main] BaseClass - Proxy element for: DefaultElementLocator 'By.id: login-button' is clicked
+[INFO ] 2022-07-05 10:38:57.168 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (4066826b4dc92779ae08b36f894dd3b9)] -> xpath: //span[text()='Products']] is visible
+[INFO ] 2022-07-05 10:38:57.250 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (4066826b4dc92779ae08b36f894dd3b9)] -> xpath: //span[text()='Products']] is displayed
+[INFO ] 2022-07-05 10:39:01.458 [main] BaseClass - Browser opened successfully
+[INFO ] 2022-07-05 10:39:02.582 [main] BaseClass - Browser opened successfully
+[INFO ] 2022-07-05 10:39:05.039 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (f6f87f8a1051403746231e0445aede69)] -> id: user-name] is visible
+[INFO ] 2022-07-05 10:39:05.482 [main] BaseClass - test is entered in [[ChromeDriver: chrome on WINDOWS (f6f87f8a1051403746231e0445aede69)] -> id: user-name]
+[INFO ] 2022-07-05 10:39:05.664 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (f6f87f8a1051403746231e0445aede69)] -> id: password] is visible
+[INFO ] 2022-07-05 10:39:06.002 [main] BaseClass - test123 is entered in [[ChromeDriver: chrome on WINDOWS (f6f87f8a1051403746231e0445aede69)] -> id: password]
+[INFO ] 2022-07-05 10:39:06.262 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (f6f87f8a1051403746231e0445aede69)] -> id: login-button] is visible
+[INFO ] 2022-07-05 10:39:06.358 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (67f9e1965ae2cd7ef88ba71f1d0af46c)] -> id: user-name] is visible
+[INFO ] 2022-07-05 10:39:06.499 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (f6f87f8a1051403746231e0445aede69)] -> id: login-button] is clicked
+[INFO ] 2022-07-05 10:39:06.597 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (f6f87f8a1051403746231e0445aede69)] -> xpath: //div[@class='error-message-container error']] is visible
+[INFO ] 2022-07-05 10:39:06.680 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (f6f87f8a1051403746231e0445aede69)] -> xpath: //div[@class='error-message-container error']] is displayed
+[INFO ] 2022-07-05 10:39:06.865 [main] BaseClass - standard_user is entered in [[ChromeDriver: chrome on WINDOWS (67f9e1965ae2cd7ef88ba71f1d0af46c)] -> id: user-name]
+[INFO ] 2022-07-05 10:39:06.999 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (67f9e1965ae2cd7ef88ba71f1d0af46c)] -> id: password] is visible
+[INFO ] 2022-07-05 10:39:07.354 [main] BaseClass - secret_sauce is entered in [[ChromeDriver: chrome on WINDOWS (67f9e1965ae2cd7ef88ba71f1d0af46c)] -> id: password]
+[INFO ] 2022-07-05 10:39:07.461 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (67f9e1965ae2cd7ef88ba71f1d0af46c)] -> id: login-button] is visible
+[INFO ] 2022-07-05 10:39:08.034 [main] BaseClass - Proxy element for: DefaultElementLocator 'By.id: login-button' is clicked
+[INFO ] 2022-07-05 10:39:08.587 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (67f9e1965ae2cd7ef88ba71f1d0af46c)] -> xpath: //span[text()='Products']] is visible
+[INFO ] 2022-07-05 10:39:09.021 [main] BaseClass - Browser opened successfully
+[INFO ] 2022-07-05 10:39:09.157 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (67f9e1965ae2cd7ef88ba71f1d0af46c)] -> xpath: //span[text()='Products']] is displayed
+[INFO ] 2022-07-05 10:39:11.517 [main] BaseClass - Browser opened successfully
+[INFO ] 2022-07-05 10:39:12.862 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (a8b88b5f371ac762c0eb640a813b2e07)] -> id: user-name] is visible
+[INFO ] 2022-07-05 10:39:13.325 [main] BaseClass - abctest is entered in [[ChromeDriver: chrome on WINDOWS (a8b88b5f371ac762c0eb640a813b2e07)] -> id: user-name]
+[INFO ] 2022-07-05 10:39:13.496 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (a8b88b5f371ac762c0eb640a813b2e07)] -> id: password] is visible
+[INFO ] 2022-07-05 10:39:13.809 [main] BaseClass - abc123 is entered in [[ChromeDriver: chrome on WINDOWS (a8b88b5f371ac762c0eb640a813b2e07)] -> id: password]
+[INFO ] 2022-07-05 10:39:13.933 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (a8b88b5f371ac762c0eb640a813b2e07)] -> id: login-button] is visible
+[INFO ] 2022-07-05 10:39:14.061 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (d8aeb562959b804439c04979ba925b41)] -> id: user-name] is visible
+[INFO ] 2022-07-05 10:39:14.190 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (a8b88b5f371ac762c0eb640a813b2e07)] -> id: login-button] is clicked
+[INFO ] 2022-07-05 10:39:14.281 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (a8b88b5f371ac762c0eb640a813b2e07)] -> xpath: //div[@class='error-message-container error']] is visible
+[INFO ] 2022-07-05 10:39:14.414 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (a8b88b5f371ac762c0eb640a813b2e07)] -> xpath: //div[@class='error-message-container error']] is displayed
+[INFO ] 2022-07-05 10:39:14.461 [main] BaseClass - test is entered in [[ChromeDriver: chrome on WINDOWS (d8aeb562959b804439c04979ba925b41)] -> id: user-name]
+[INFO ] 2022-07-05 10:39:14.586 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (d8aeb562959b804439c04979ba925b41)] -> id: password] is visible
+[INFO ] 2022-07-05 10:39:14.858 [main] BaseClass - test123 is entered in [[ChromeDriver: chrome on WINDOWS (d8aeb562959b804439c04979ba925b41)] -> id: password]
+[INFO ] 2022-07-05 10:39:14.932 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (d8aeb562959b804439c04979ba925b41)] -> id: login-button] is visible
+[INFO ] 2022-07-05 10:39:15.069 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (d8aeb562959b804439c04979ba925b41)] -> id: login-button] is clicked
+[INFO ] 2022-07-05 10:39:15.184 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (d8aeb562959b804439c04979ba925b41)] -> xpath: //div[@class='error-message-container error']] is visible
+[INFO ] 2022-07-05 10:39:15.317 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (d8aeb562959b804439c04979ba925b41)] -> xpath: //div[@class='error-message-container error']] is displayed
+[INFO ] 2022-07-05 10:39:18.018 [main] BaseClass - Browser opened successfully
+[INFO ] 2022-07-05 10:39:21.615 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (b2c82711ad65f39a469b81d999443d62)] -> id: user-name] is visible
+[INFO ] 2022-07-05 10:39:21.944 [main] BaseClass - abctest is entered in [[ChromeDriver: chrome on WINDOWS (b2c82711ad65f39a469b81d999443d62)] -> id: user-name]
+[INFO ] 2022-07-05 10:39:22.059 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (b2c82711ad65f39a469b81d999443d62)] -> id: password] is visible
+[INFO ] 2022-07-05 10:39:22.404 [main] BaseClass - abc123 is entered in [[ChromeDriver: chrome on WINDOWS (b2c82711ad65f39a469b81d999443d62)] -> id: password]
+[INFO ] 2022-07-05 10:39:22.531 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (b2c82711ad65f39a469b81d999443d62)] -> id: login-button] is visible
+[INFO ] 2022-07-05 10:39:22.758 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (b2c82711ad65f39a469b81d999443d62)] -> id: login-button] is clicked
+[INFO ] 2022-07-05 10:39:22.863 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (b2c82711ad65f39a469b81d999443d62)] -> xpath: //div[@class='error-message-container error']] is visible
+[INFO ] 2022-07-05 10:39:22.946 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (b2c82711ad65f39a469b81d999443d62)] -> xpath: //div[@class='error-message-container error']] is displayed
+[INFO ] 2022-07-06 09:52:40.810 [main] BaseClass - Browser opened successfully
+[INFO ] 2022-07-06 09:52:43.318 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (557f4c3e2d7486a4c6c5ffc913eee70c)] -> id: user-name] is visible
+[INFO ] 2022-07-06 09:52:43.679 [main] BaseClass - standard_user is entered in [[ChromeDriver: chrome on WINDOWS (557f4c3e2d7486a4c6c5ffc913eee70c)] -> id: user-name]
+[INFO ] 2022-07-06 09:52:43.820 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (557f4c3e2d7486a4c6c5ffc913eee70c)] -> id: password] is visible
+[INFO ] 2022-07-06 09:52:44.213 [main] BaseClass - secret_sauce is entered in [[ChromeDriver: chrome on WINDOWS (557f4c3e2d7486a4c6c5ffc913eee70c)] -> id: password]
+[INFO ] 2022-07-06 09:52:44.317 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (557f4c3e2d7486a4c6c5ffc913eee70c)] -> id: login-button] is visible
+[INFO ] 2022-07-06 09:52:44.781 [main] BaseClass - Proxy element for: DefaultElementLocator 'By.id: login-button' is clicked
+[INFO ] 2022-07-06 09:52:45.022 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (557f4c3e2d7486a4c6c5ffc913eee70c)] -> xpath: //span[text()='Products']] is visible
+[INFO ] 2022-07-06 09:52:45.352 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (557f4c3e2d7486a4c6c5ffc913eee70c)] -> xpath: //span[text()='Products']] is displayed
+[INFO ] 2022-07-06 23:28:36.747 [main] BaseClass - Browser opened successfully
+[INFO ] 2022-07-06 23:28:43.109 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (906d1014ebe4e51438b83eafaad8392d)] -> id: user-name] is visible
+[INFO ] 2022-07-06 23:28:43.585 [main] BaseClass - standard_user is entered in [[ChromeDriver: chrome on WINDOWS (906d1014ebe4e51438b83eafaad8392d)] -> id: user-name]
+[INFO ] 2022-07-06 23:28:43.765 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (906d1014ebe4e51438b83eafaad8392d)] -> id: password] is visible
+[INFO ] 2022-07-06 23:28:44.246 [main] BaseClass - secret_sauce is entered in [[ChromeDriver: chrome on WINDOWS (906d1014ebe4e51438b83eafaad8392d)] -> id: password]
+[INFO ] 2022-07-06 23:28:44.387 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (906d1014ebe4e51438b83eafaad8392d)] -> id: login-button] is visible
+[INFO ] 2022-07-06 23:28:44.878 [main] BaseClass - Proxy element for: DefaultElementLocator 'By.id: login-button' is clicked
+[INFO ] 2022-07-06 23:28:45.078 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (906d1014ebe4e51438b83eafaad8392d)] -> xpath: //span[text()='Products']] is visible
+[INFO ] 2022-07-06 23:28:45.202 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (906d1014ebe4e51438b83eafaad8392d)] -> xpath: //span[text()='Products']] is displayed
+[INFO ] 2022-07-07 10:38:34.894 [main] BaseClass - Browser opened successfully
+[INFO ] 2022-07-07 10:38:38.198 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (9a6509b2da1dbc729de0803b606fd251)] -> id: user-name] is visible
+[INFO ] 2022-07-07 10:38:38.639 [main] BaseClass - standard_user is entered in [[ChromeDriver: chrome on WINDOWS (9a6509b2da1dbc729de0803b606fd251)] -> id: user-name]
+[INFO ] 2022-07-07 10:38:38.796 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (9a6509b2da1dbc729de0803b606fd251)] -> id: password] is visible
+[INFO ] 2022-07-07 10:38:39.280 [main] BaseClass - secret_sauce is entered in [[ChromeDriver: chrome on WINDOWS (9a6509b2da1dbc729de0803b606fd251)] -> id: password]
+[INFO ] 2022-07-07 10:38:39.447 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (9a6509b2da1dbc729de0803b606fd251)] -> id: login-button] is visible
+[INFO ] 2022-07-07 10:38:39.838 [main] BaseClass - Proxy element for: DefaultElementLocator 'By.id: login-button' is clicked
+[INFO ] 2022-07-07 10:38:40.024 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (9a6509b2da1dbc729de0803b606fd251)] -> xpath: //span[text()='Products']] is visible
+[INFO ] 2022-07-07 10:38:40.133 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (9a6509b2da1dbc729de0803b606fd251)] -> xpath: //span[text()='Products']] is displayed
+[INFO ] 2022-07-07 10:38:42.356 [main] BaseClass - Browser opened successfully
+[INFO ] 2022-07-07 10:38:45.056 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (932ba06c6d02767873a24cb2da9661f1)] -> id: user-name] is visible
+[INFO ] 2022-07-07 10:38:45.404 [main] BaseClass - test is entered in [[ChromeDriver: chrome on WINDOWS (932ba06c6d02767873a24cb2da9661f1)] -> id: user-name]
+[INFO ] 2022-07-07 10:38:45.607 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (932ba06c6d02767873a24cb2da9661f1)] -> id: password] is visible
+[INFO ] 2022-07-07 10:38:46.075 [main] BaseClass - test123 is entered in [[ChromeDriver: chrome on WINDOWS (932ba06c6d02767873a24cb2da9661f1)] -> id: password]
+[INFO ] 2022-07-07 10:38:46.263 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (932ba06c6d02767873a24cb2da9661f1)] -> id: login-button] is visible
+[INFO ] 2022-07-07 10:38:46.488 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (932ba06c6d02767873a24cb2da9661f1)] -> id: login-button] is clicked
+[INFO ] 2022-07-07 10:38:46.604 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (932ba06c6d02767873a24cb2da9661f1)] -> xpath: //div[@class='error-message-container error']] is visible
+[INFO ] 2022-07-07 10:38:46.698 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (932ba06c6d02767873a24cb2da9661f1)] -> xpath: //div[@class='error-message-container error']] is displayed
+[INFO ] 2022-07-07 10:38:48.944 [main] BaseClass - Browser opened successfully
+[INFO ] 2022-07-07 10:38:52.418 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (52ff8bc2af5e42f685332dc193c924fe)] -> id: user-name] is visible
+[INFO ] 2022-07-07 10:38:52.900 [main] BaseClass - abctest is entered in [[ChromeDriver: chrome on WINDOWS (52ff8bc2af5e42f685332dc193c924fe)] -> id: user-name]
+[INFO ] 2022-07-07 10:38:53.057 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (52ff8bc2af5e42f685332dc193c924fe)] -> id: password] is visible
+[INFO ] 2022-07-07 10:38:53.480 [main] BaseClass - abc123 is entered in [[ChromeDriver: chrome on WINDOWS (52ff8bc2af5e42f685332dc193c924fe)] -> id: password]
+[INFO ] 2022-07-07 10:38:53.620 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (52ff8bc2af5e42f685332dc193c924fe)] -> id: login-button] is visible
+[INFO ] 2022-07-07 10:38:53.849 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (52ff8bc2af5e42f685332dc193c924fe)] -> id: login-button] is clicked
+[INFO ] 2022-07-07 10:38:53.982 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (52ff8bc2af5e42f685332dc193c924fe)] -> xpath: //div[@class='error-message-container error']] is visible
+[INFO ] 2022-07-07 10:38:54.097 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (52ff8bc2af5e42f685332dc193c924fe)] -> xpath: //div[@class='error-message-container error']] is displayed
+[INFO ] 2022-07-08 09:41:40.470 [main] BaseClass - Browser opened successfully
+[INFO ] 2022-07-08 09:41:43.306 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (94eaa3593f96790002c63d4dea8e8838)] -> id: user-name] is visible
+[INFO ] 2022-07-08 09:41:43.725 [main] BaseClass - standard_user is entered in [[ChromeDriver: chrome on WINDOWS (94eaa3593f96790002c63d4dea8e8838)] -> id: user-name]
+[INFO ] 2022-07-08 09:41:43.928 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (94eaa3593f96790002c63d4dea8e8838)] -> id: password] is visible
+[INFO ] 2022-07-08 09:41:44.371 [main] BaseClass - secret_sauce is entered in [[ChromeDriver: chrome on WINDOWS (94eaa3593f96790002c63d4dea8e8838)] -> id: password]
+[INFO ] 2022-07-08 09:41:44.587 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (94eaa3593f96790002c63d4dea8e8838)] -> id: login-button] is visible
+[INFO ] 2022-07-08 09:41:45.162 [main] BaseClass - Proxy element for: DefaultElementLocator 'By.id: login-button' is clicked
+[INFO ] 2022-07-08 09:41:45.474 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (94eaa3593f96790002c63d4dea8e8838)] -> xpath: //span[text()='Products']] is visible
+[INFO ] 2022-07-08 09:41:45.716 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (94eaa3593f96790002c63d4dea8e8838)] -> xpath: //span[text()='Products']] is displayed
+[INFO ] 2022-07-08 09:41:48.387 [main] BaseClass - Browser opened successfully
+[INFO ] 2022-07-08 09:41:50.787 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (a6533e9cfa06f29110eabc473d24001d)] -> id: user-name] is visible
+[INFO ] 2022-07-08 09:41:51.131 [main] BaseClass - test is entered in [[ChromeDriver: chrome on WINDOWS (a6533e9cfa06f29110eabc473d24001d)] -> id: user-name]
+[INFO ] 2022-07-08 09:41:51.382 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (a6533e9cfa06f29110eabc473d24001d)] -> id: password] is visible
+[INFO ] 2022-07-08 09:41:51.784 [main] BaseClass - test123 is entered in [[ChromeDriver: chrome on WINDOWS (a6533e9cfa06f29110eabc473d24001d)] -> id: password]
+[INFO ] 2022-07-08 09:41:51.892 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (a6533e9cfa06f29110eabc473d24001d)] -> id: login-button] is visible
+[INFO ] 2022-07-08 09:41:52.114 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (a6533e9cfa06f29110eabc473d24001d)] -> id: login-button] is clicked
+[INFO ] 2022-07-08 09:41:52.270 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (a6533e9cfa06f29110eabc473d24001d)] -> xpath: //div[@class='error-message-container error']] is visible
+[INFO ] 2022-07-08 09:41:52.376 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (a6533e9cfa06f29110eabc473d24001d)] -> xpath: //div[@class='error-message-container error']] is displayed
+[INFO ] 2022-07-08 09:41:54.770 [main] BaseClass - Browser opened successfully
+[INFO ] 2022-07-08 09:41:57.117 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (883f6a812f94583a342dae00b39e765f)] -> id: user-name] is visible
+[INFO ] 2022-07-08 09:41:57.476 [main] BaseClass - abctest is entered in [[ChromeDriver: chrome on WINDOWS (883f6a812f94583a342dae00b39e765f)] -> id: user-name]
+[INFO ] 2022-07-08 09:41:57.609 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (883f6a812f94583a342dae00b39e765f)] -> id: password] is visible
+[INFO ] 2022-07-08 09:41:58.002 [main] BaseClass - abc123 is entered in [[ChromeDriver: chrome on WINDOWS (883f6a812f94583a342dae00b39e765f)] -> id: password]
+[INFO ] 2022-07-08 09:41:58.144 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (883f6a812f94583a342dae00b39e765f)] -> id: login-button] is visible
+[INFO ] 2022-07-08 09:41:58.449 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (883f6a812f94583a342dae00b39e765f)] -> id: login-button] is clicked
+[INFO ] 2022-07-08 09:41:58.557 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (883f6a812f94583a342dae00b39e765f)] -> xpath: //div[@class='error-message-container error']] is visible
+[INFO ] 2022-07-08 09:41:58.639 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (883f6a812f94583a342dae00b39e765f)] -> xpath: //div[@class='error-message-container error']] is displayed
